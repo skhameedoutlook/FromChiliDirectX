@@ -1,0 +1,26 @@
+﻿  Graphics.cpp
+C:\Users\lapowner\Downloads\Chili DirectX Framework\Chili Framework 2016\Engine\Graphics.cpp(350,13): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\lapowner\Downloads\Chili DirectX Framework\Chili Framework 2016\Engine\Graphics.cpp(359,11): warning C4244: '=': conversion from '_Ty1' to 'T', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\lapowner\Downloads\Chili DirectX Framework\Chili Framework 2016\Engine\Graphics.cpp(360,11): warning C4244: '=': conversion from '_Ty2' to 'T', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating code
+  29 of 528 functions ( 5.5%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    43 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> C:\Users\lapowner\Downloads\Chili DirectX Framework\Chili Framework 2016\Release\Engine.exe
